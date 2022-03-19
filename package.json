@@ -1,0 +1,14 @@
+{
+  "name": "server_leaver",
+  "version": "1.0.0",
+  "description": "Will leave all Servers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "dsc",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.6.4"
+  }
+}
